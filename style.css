@@ -27,3 +27,23 @@ margin: 20px auto;
     box-shsdow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 h2 {
+   color: #4CAF50;
+}
+.project { 
+    margin-bottom: 20px;
+}
+.project h3 {
+    margin: 0 0 10px;
+    color: #333;
+}
+  ul
+   list-stvle-type: square;
+   padding-letf: 20px;
+}
+footer {
+    text-align: center:
+    padding: 10px 0; 
+    background: #333;
+    cplor: white: 
+    margin-top: 20px;
+{
